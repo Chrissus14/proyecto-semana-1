@@ -1,1 +1,11 @@
+.main__banner {
+  width: 100%;
+  background-color: #f3f3f3;
+}
 
+.jumbotron {
+  background-image: url("../img/gtr-banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
